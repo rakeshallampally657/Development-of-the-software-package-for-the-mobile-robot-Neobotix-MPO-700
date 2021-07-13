@@ -1,5 +1,9 @@
 # Development-of-the-software-package-for-the-mobile-robot-Neobotix-MPO-700
 
+## Internship at Neobotix GMBH
+![1563532836045](https://user-images.githubusercontent.com/79206625/125455239-8e366068-f406-41d6-a92f-fb4cbf94a1fc.jpg)
+
+
 ## Objectives of the Code structure:
 
 The main objective of the structure is to make the program more efficient. All the CAN communication should be done in the separate Class, i.e. ElmoMotorCtrl Class and there should not be any CAN communication involved in any other Class and the main function as well. By this, the program will be easier to visualize and much more clear to understand.
