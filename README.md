@@ -5,6 +5,12 @@
 
 # Development-of-the-software-package-for-the-mobile-robot-Neobotix-MPO-700
 
+# Programming language:
+  C++ (oops)
+  
+ # Framework:
+   ROS
+
 ## Objectives of the Code structure:
 
 The main objective of the structure is to make the program more efficient. All the CAN communication should be done in the separate Class, i.e. ElmoMotorCtrl Class and there should not be any CAN communication involved in any other Class and the main function as well. By this, the program will be easier to visualize and much more clear to understand.
