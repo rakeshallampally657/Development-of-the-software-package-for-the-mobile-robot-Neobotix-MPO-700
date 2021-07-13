@@ -14,3 +14,8 @@ The third objective was to use the object declaration of the Class efficiently a
 
 
 ![struct](https://user-images.githubusercontent.com/79206625/125451306-4bd4081c-1886-4f53-932d-cf742ad3742d.PNG)
+
+# Implemented state machine for handling Drive_state errors
+
+![Drivestate_Errors-page-001edottt](https://user-images.githubusercontent.com/79206625/125455713-e5a8ae9f-93af-431e-ba0f-755851f9734c.jpg)
+
